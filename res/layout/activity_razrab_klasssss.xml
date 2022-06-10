@@ -36,7 +36,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="20dp"
-            android:text="Разработчик:\nЖелезняков Даниил Михайлович \n\nГруппа:\nИКБО-20-20"
+            android:text="Разработчик:\nМоскалик Михаил Дмитриевич \n\nГруппа:\nИКБО-13-20"
             android:textSize="20sp"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintStart_toStartOf="parent"
